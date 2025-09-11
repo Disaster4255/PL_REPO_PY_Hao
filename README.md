@@ -1,7 +1,7 @@
 PL_REPO_PY_Hao
 ===
 Hello there, this is my personal repo, hope you like it.<br>
-For 網際網路概論 and 程式語言.
+For Programming Language(程式語言) and Introduction to the Internet(網際網路概論).
 
 Programming Language
 ---
