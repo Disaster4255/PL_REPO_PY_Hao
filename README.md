@@ -5,8 +5,8 @@ For Programming Language(程式語言) and Introduction to the Internet(網際�
 
 Programming Language
 ---
--[HW1](https://github.com/Disaster4255/PL_REPO_PY_Hao/blob/6acfa786e260f6cda1422ada375e3d13a6cd0384/ProgrammingLanguage114_1_HW1.ipynb)
+*[HW1](https://github.com/Disaster4255/PL_REPO_PY_Hao/blob/6acfa786e260f6cda1422ada375e3d13a6cd0384/ProgrammingLanguage114_1_HW1.ipynb)
 
 Introduction to the Internet
 ---
--HW1
+*HW1
