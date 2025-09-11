@@ -1,6 +1,6 @@
 PL_REPO_PY_Hao
 ===
-Hello there, this is my personal repo, hope you like it.<br>
+Hello there, my name is PY Hao(郝品𦱀) this is my personal repo, hope you like it.<br>
 For Programming Language(程式語言) and Introduction to the Internet(網際網路概論).
 
 Programming Language
