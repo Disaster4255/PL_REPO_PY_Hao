@@ -10,3 +10,5 @@ Programming Language
 Introduction to the Internet
 ---
 * HW1
+
+That's it for now, this page will be terminated at about December.
