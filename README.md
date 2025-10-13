@@ -10,5 +10,6 @@ Programming Language
 Introduction to the Internet
 ---
 * [HW1](https://disaster4255.github.io/For-Introduction-to-the-Internet/)
+* [HW1]([https://disaster4255.github.io/For-Introduction-to-the-Internet/](https://youtu.be/2dAWS78j5EE))
 
 That's it for now, this page will be terminated at about December.
