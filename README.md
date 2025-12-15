@@ -15,6 +15,7 @@ Introduction to the Internet
 * [HW1](https://disaster4255.github.io/For-Introduction-to-the-Internet/)
 * [HW2](https://youtu.be/2dAWS78j5EE)
 * [HW3]()
-* [Final](https://youtu.be/bHesgEKaTH8)
+* [Final Video](https://youtu.be/bHesgEKaTH8)
+* [Final GitHub](https://github.com/Disaster4255/Introduction_to_the_Internet_Final)
 
 That's it for now, this page will be terminated at about December.
