@@ -15,6 +15,7 @@ Introduction to the Internet
 * [HW1](https://disaster4255.github.io/For-Introduction-to-the-Internet/)
 * [HW2](https://youtu.be/2dAWS78j5EE)
 * [HW3](https://github.com/Disaster4255/Introduction_to_the_Internet_HW3)
+* [HW3 Video](https://drive.google.com/drive/folders/1lZqG2NQCkcl9wxe5MsYSge_IsxIMaKKU?usp=sharing)
 * [Final Video](https://youtu.be/bHesgEKaTH8)
 * [Final GitHub](https://github.com/Disaster4255/Introduction_to_the_Internet_Final)
 
